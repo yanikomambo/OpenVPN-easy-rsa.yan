@@ -1,0 +1,1 @@
+# OpenVPN-easy-rsa.yan
